@@ -1,0 +1,30 @@
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/bin/Debug/net6.0/Assignment Example
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/bin/Debug/net6.0/Assignment Example.deps.json
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/bin/Debug/net6.0/Assignment Example.runtimeconfig.json
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/bin/Debug/net6.0/Assignment Example.dll
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/bin/Debug/net6.0/Assignment Example.pdb
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/obj/Debug/net6.0/Assignment Example.csproj.AssemblyReference.cache
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/obj/Debug/net6.0/Assignment Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/obj/Debug/net6.0/Assignment Example.AssemblyInfoInputs.cache
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/obj/Debug/net6.0/Assignment Example.AssemblyInfo.cs
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/obj/Debug/net6.0/Assignment Example.csproj.CoreCompileInputs.cache
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/obj/Debug/net6.0/Assignment Example.dll
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/obj/Debug/net6.0/refint/Assignment Example.dll
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/obj/Debug/net6.0/Assignment Example.pdb
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/obj/Debug/net6.0/Assignment Example.genruntimeconfig.cache
+/Users/angelmanz/Documents/Combine Day 1/Assignment Example/obj/Debug/net6.0/ref/Assignment Example.dll
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/bin/Debug/net6.0/Assignment Example
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/bin/Debug/net6.0/Assignment Example.deps.json
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/bin/Debug/net6.0/Assignment Example.runtimeconfig.json
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/bin/Debug/net6.0/Assignment Example.dll
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/bin/Debug/net6.0/Assignment Example.pdb
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/obj/Debug/net6.0/Assignment Example.csproj.AssemblyReference.cache
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/obj/Debug/net6.0/Assignment Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/obj/Debug/net6.0/Assignment Example.AssemblyInfoInputs.cache
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/obj/Debug/net6.0/Assignment Example.AssemblyInfo.cs
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/obj/Debug/net6.0/Assignment Example.csproj.CoreCompileInputs.cache
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/obj/Debug/net6.0/Assignment Example.dll
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/obj/Debug/net6.0/refint/Assignment Example.dll
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/obj/Debug/net6.0/Assignment Example.pdb
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/obj/Debug/net6.0/Assignment Example.genruntimeconfig.cache
+/Users/angelmanz/Documents/Combine Day 1/Mini Challenge #2/obj/Debug/net6.0/ref/Assignment Example.dll
